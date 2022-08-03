@@ -2,7 +2,7 @@
 
 Transforming and cleaning raw data, next creating informative, elegant and interactive report in order to analyze company performance, products by categories and subcategories, sales, clients characteristics, an influence of changing product price.    
 
-Created while doing a course 'Microsoft Power BI Desktop for Business Intelligence", based on general workflow and guidelines provided by course author. I really enjoyed it, and put freshly acquired skills into practice.
+Created while doing a course 'Microsoft Power BI Desktop for Business Intelligence", based on general workflow and guidelines provided by course author. I really enjoyed it, and was able to put freshly acquired skills into practice.
 
 Technologies:
 * Power BI Desktop
