@@ -1,9 +1,12 @@
-## Dashboard_AdventureWorks
+**Dashboard - Adventure Works Company**
 
 Transforming and cleaning raw data, next creating informative, elegant and interactive report in order to analyze company performance, products by categories and subcategories, sales, clients characteristic, influence of product price.    
 
 Created while doing a course 'Microsoft Power BI Desktop for Business Intelligence", based on general workflow and guidelines provided by course author.
 
+Technologies:
+* Power BI Desktop
+* Power Query
 
 ![obraz](https://user-images.githubusercontent.com/102869680/182708834-566b6631-0ad9-488d-b19b-ed5fc7cbd742.png)
 ![obraz](https://user-images.githubusercontent.com/102869680/182708867-f3e17cfd-7ff7-4f1c-b537-0c899e6fb73e.png)
